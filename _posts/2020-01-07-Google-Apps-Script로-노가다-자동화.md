@@ -23,7 +23,7 @@ categories: Google Apps Script
 
 전체 구조는 다음과 같다
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba523776-f7f8-4c99-88b7-4bcc8c2faec3/__.jpg](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fba523776-f7f8-4c99-88b7-4bcc8c2faec3%2F__.jpg?table=block&id=59612681-cd9c-4383-9781-7d1a1526ecb3&width=2160&cache=v2)
+![a](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fba523776-f7f8-4c99-88b7-4bcc8c2faec3%2F__.jpg?table=block&id=59612681-cd9c-4383-9781-7d1a1526ecb3&width=2160&cache=v2)
 
 본 솔루션을 구현하기 위해 Firebase를 사용하였는데 그 이유는 홈페이지 호스팅을 하는데 간단하고 빨랐으며 무료 가격 정책에도 준수한 성능을 갖추었기 때문이다.
 
